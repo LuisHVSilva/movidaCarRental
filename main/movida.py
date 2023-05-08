@@ -113,7 +113,7 @@ class Search:
                 j += 2
 
         self.__set_driver(driver)
-        return self.__make_up_for(dic)
+        self.__make_up_for(dic)
 
     def __make_up_for(self, dic):
         print("Make Up For?")
@@ -149,7 +149,6 @@ class Search:
             print("----------------------------------------------------------------------------------------------")
             print("Não deu bom. Tentando de novo")
             print("----------------------------------------------------------------------------------------------")
-            return False
 
     def __define_protections(self, value):
         print("Defining your protections")
@@ -172,4 +171,5 @@ class Search:
         driver.execute_script("document.getElementById('prePagamento').click()")
         driver.execute_script("document.getElementById('licenca').click()")
         driver.execute_script("document.getElementById('politicaCancelamento').click()")
+        sleep(5000000000)
         # driver.execute_script("document.getElementById('concluir_pagamento_reserva').click")
