@@ -1,0 +1,6357 @@
+{
+  "RIO BRANCO AEROPORTO": {
+    "value": "RIO BRANCO AEROPORTO",
+    "label": "RIO BRANCO AEROPORTO,RBR,Aeroporto",
+    "label2": "RIO BRANCO AEROPORTO",
+    "codigo": "RBR",
+    "id": "128",
+    "cidade": "RIO BRANCO",
+    "lat": "-9.868889",
+    "lng": "-67.898056",
+    "cep": "69923-900",
+    "hora": "Segunda-feira a Sexta-feira: 08:00 \u00e0s 18:00 - 19:00 \u00e0s 03:20 | S\u00e1bado: 07:00 \u00e0s 15:00 - 19:00 \u00e0s 03:20 | Domingos e Feriados - Fechado",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "03:20:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "15:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MACEIO AEROPORTO": {
+    "value": "MACEIO AEROPORTO",
+    "label": "MACEIO AEROPORTO,MCZ,Aeroporto",
+    "label2": "MACEIO AEROPORTO",
+    "codigo": "MCZ",
+    "id": "68",
+    "cidade": "MACEI\u00d3",
+    "lat": "-9.515222",
+    "lng": "-35.792669",
+    "cep": "57100-971",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "MACEIO FAROL": {
+    "value": "MACEIO FAROL",
+    "label": "MACEIO FAROL,MAA,RUA",
+    "label2": "MACEIO FAROL",
+    "codigo": "MAA",
+    "id": "331",
+    "cidade": "MACEI\u00d3",
+    "lat": "-9.621260",
+    "lng": "-35.739449",
+    "cep": "57057-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MACAPA AEROPORTO": {
+    "value": "MACAPA AEROPORTO",
+    "label": "MACAPA AEROPORTO,MCP,Aeroporto",
+    "label2": "MACAPA AEROPORTO",
+    "codigo": "MCP",
+    "id": "218",
+    "cidade": "MACAP\u00c1",
+    "lat": "0.049787",
+    "lng": "-51.068483",
+    "cep": "68901-271",
+    "hora": "Todos os dias das 24h (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "MANAUS AEROPORTO": {
+    "value": "MANAUS AEROPORTO",
+    "label": "MANAUS AEROPORTO,MAO,Aeroporto",
+    "label2": "MANAUS AEROPORTO",
+    "codigo": "MAO",
+    "id": "63",
+    "cidade": "MANAUS",
+    "lat": "-3.031880",
+    "lng": "-60.046720",
+    "cep": "69041-000",
+    "hora": "Todos os dias 24 horas (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "MANAUS CENTRO": {
+    "value": "MANAUS CENTRO",
+    "label": "MANAUS CENTRO,MOVMAN,RUA",
+    "label2": "MANAUS CENTRO",
+    "codigo": "MOVMAN",
+    "id": "139",
+    "cidade": "MANAUS",
+    "lat": "-3.064295",
+    "lng": "-60.024720",
+    "cep": "69058-830",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BARREIRAS": {
+    "value": "BARREIRAS",
+    "label": "BARREIRAS,MOVBRS,RUA",
+    "label2": "BARREIRAS",
+    "codigo": "MOVBRS",
+    "id": "1055",
+    "cidade": "BARREIRAS",
+    "lat": "-12.14282",
+    "lng": "-44.97744",
+    "cep": "47802-366",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "FEIRA DE SANTANA": {
+    "value": "FEIRA DE SANTANA",
+    "label": "FEIRA DE SANTANA,FEC,RUA",
+    "label2": "FEIRA DE SANTANA",
+    "codigo": "FEC",
+    "id": "355",
+    "cidade": "FEIRA DE SANTANA",
+    "lat": "-12.268236",
+    "lng": "-38.940406",
+    "cep": "44076-130",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 17:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "17:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "ILHEUS AEROPORTO": {
+    "value": "ILHEUS AEROPORTO",
+    "label": "ILHEUS AEROPORTO,IOS,Aeroporto",
+    "label2": "ILHEUS AEROPORTO",
+    "codigo": "IOS",
+    "id": "113",
+    "cidade": "ILH\u00c9US",
+    "lat": "-14.814123",
+    "lng": "-39.032257",
+    "cep": "45654-070",
+    "hora": "Todos os dias: 07:00 \u00e0s 18:00 (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SALVADOR AEROPORTO": {
+    "value": "SALVADOR AEROPORTO",
+    "label": "SALVADOR AEROPORTO,SSA,Aeroporto",
+    "label2": "SALVADOR AEROPORTO",
+    "codigo": "SSA",
+    "id": "2",
+    "cidade": "LAURO DE FREITAS",
+    "lat": "-12.914156",
+    "lng": "-38.336458",
+    "cep": "42703-440",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "PORTO SEGURO AEROPORTO": {
+    "value": "PORTO SEGURO AEROPORTO",
+    "label": "PORTO SEGURO AEROPORTO,BPS,Aeroporto",
+    "label2": "PORTO SEGURO AEROPORTO",
+    "codigo": "BPS",
+    "id": "309",
+    "cidade": "Porto Seguro",
+    "lat": "-16.439813",
+    "lng": "-39.077685",
+    "cep": "45810-000",
+    "hora": "Segunda \u00e0 Sexta: 06:00 \u00e0s 22:00 | S\u00e1bados: 06:00 \u00e0s 23:59 | Domingos: 00:00 \u00e0s 22:00 | Feriados: 06:00 \u00e0s 22:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "22:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "06:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "06:00:00",
+          "End": "23:59:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SALVADOR - PARALELA": {
+    "value": "SALVADOR - PARALELA",
+    "label": "SALVADOR - PARALELA,SPAPP,RUA",
+    "label2": "SALVADOR - PARALELA",
+    "codigo": "SPAPP",
+    "id": "479",
+    "cidade": "Salvador",
+    "lat": "-12.9394659",
+    "lng": "-38.4099733",
+    "cep": "41730-101",
+    "hora": "Segunda \u00e0 Sexta das 07:00 \u00e0s 19:00 | S\u00e1bado das 08:00 \u00e0s 14:00 | Domingos e Feriados fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SALVADOR AMARALINA - PITUBA": {
+    "value": "SALVADOR AMARALINA - PITUBA",
+    "label": "SALVADOR AMARALINA - PITUBA,MOVSVD,RUA",
+    "label2": "SALVADOR AMARALINA - PITUBA",
+    "codigo": "MOVSVD",
+    "id": "212",
+    "cidade": "SALVADOR",
+    "lat": "-13.007908",
+    "lng": "-38.463724",
+    "cep": "41900-325",
+    "hora": "Segunda \u00e0 Sexta das 07:00 \u00e0s 19:00 | S\u00e1bado das 08:00 \u00e0s 14:00 | Domingos e Feriados das 08:00 \u00e0s 16:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "VITORIA DA CONQUISTA AEROPORTO": {
+    "value": "VITORIA DA CONQUISTA AEROPORTO",
+    "label": "VITORIA DA CONQUISTA AEROPORTO,VDC,Aeroporto",
+    "label2": "VITORIA DA CONQUISTA AEROPORTO",
+    "codigo": "VDC",
+    "id": "204",
+    "cidade": "VIT\u00d3RIA DA CONQUISTA",
+    "lat": "-14.862800",
+    "lng": "-40.863100",
+    "cep": "45105-000",
+    "hora": "Domingo \u00e0 Segunda (Inclusive feriados) das 07:00 \u00e0s 23:59 | S\u00e1bados das 07:00 \u00e0s 20:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "FORTALEZA AEROPORTO": {
+    "value": "FORTALEZA AEROPORTO",
+    "label": "FORTALEZA AEROPORTO,FOR,Aeroporto",
+    "label2": "FORTALEZA AEROPORTO",
+    "codigo": "FOR",
+    "id": "11",
+    "cidade": "FORTALEZA",
+    "lat": "-3.782576",
+    "lng": "-38.535872",
+    "cep": "60741-970",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "FORTALEZA CENTRO": {
+    "value": "FORTALEZA CENTRO",
+    "label": "FORTALEZA CENTRO,FORC,RUA",
+    "label2": "FORTALEZA CENTRO",
+    "codigo": "FORC",
+    "id": "183",
+    "cidade": "FORTALEZA",
+    "lat": "-3.724223",
+    "lng": "-38.508646",
+    "cep": "60165-068",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JUAZEIRO DO NORTE AEROPORTO": {
+    "value": "JUAZEIRO DO NORTE AEROPORTO",
+    "label": "JUAZEIRO DO NORTE AEROPORTO,JDOC01,Aeroporto",
+    "label2": "JUAZEIRO DO NORTE AEROPORTO",
+    "codigo": "JDOC01",
+    "id": "173",
+    "cidade": "JUAZEIRO DO NORTE",
+    "lat": "-7.213632",
+    "lng": "-39.280995",
+    "cep": "63020-735",
+    "hora": "Todos os dias das 00:00 as 05:00 l 08:00 as 23:59",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BRASILIA AEROPORTO": {
+    "value": "BRASILIA AEROPORTO",
+    "label": "BRASILIA AEROPORTO,BSB,Aeroporto",
+    "label2": "BRASILIA AEROPORTO",
+    "codigo": "BSB",
+    "id": "28",
+    "cidade": "BRAS\u00cdLIA",
+    "lat": "-15.870915",
+    "lng": "-47.932112",
+    "cep": "71608-900",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "BRASILIA SIA": {
+    "value": "BRASILIA SIA",
+    "label": "BRASILIA SIA,BSBC02,RUA",
+    "label2": "BRASILIA SIA",
+    "codigo": "BSBC02",
+    "id": "429",
+    "cidade": "BRAS\u00cdLIA",
+    "lat": "-15.8063765",
+    "lng": "-47.9569296",
+    "cep": "71200-020",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SERRA": {
+    "value": "SERRA",
+    "label": "SERRA,MOVSRA,RUA",
+    "label2": "SERRA",
+    "codigo": "MOVSRA",
+    "id": "1038",
+    "cidade": "SERRA",
+    "lat": "-20.206419",
+    "lng": "-40.268810",
+    "cep": "29162-702",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados: Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "VITORIA SANTA LUCIA": {
+    "value": "VITORIA SANTA LUCIA",
+    "label": "VITORIA SANTA LUCIA,VIXC01,RUA",
+    "label2": "VITORIA SANTA LUCIA",
+    "codigo": "VIXC01",
+    "id": "226",
+    "cidade": "VIT\u00d3RIA",
+    "lat": "-20.303247",
+    "lng": "-40.300154",
+    "cep": "29056-260",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "VITORIA AEROPORTO": {
+    "value": "VITORIA AEROPORTO",
+    "label": "VITORIA AEROPORTO,VIX,Aeroporto",
+    "label2": "VITORIA AEROPORTO",
+    "codigo": "VIX",
+    "id": "371",
+    "cidade": "VIT\u00d3RIA",
+    "lat": "-20.264209",
+    "lng": "-40.282989",
+    "cep": "29075-685",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "ANAPOLIS": {
+    "value": "ANAPOLIS",
+    "label": "ANAPOLIS,MOVANP,RUA",
+    "label2": "ANAPOLIS",
+    "codigo": "MOVANP",
+    "id": "175",
+    "cidade": "AN\u00c1POLIS",
+    "lat": "-16.340481",
+    "lng": "-48.954222",
+    "cep": "75123-115",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "APARECIDA DE GOIANIA": {
+    "value": "APARECIDA DE GOIANIA",
+    "label": "APARECIDA DE GOIANIA,MOVAG,RUA",
+    "label2": "APARECIDA DE GOIANIA",
+    "codigo": "MOVAG",
+    "id": "317",
+    "cidade": "APARECIDA DE GOI\u00c2NIA",
+    "lat": "-16.745490",
+    "lng": "-49.282641",
+    "cep": "74916-260",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "GOIANIA AEROPORTO": {
+    "value": "GOIANIA AEROPORTO",
+    "label": "GOIANIA AEROPORTO,GYN,Aeroporto",
+    "label2": "GOIANIA AEROPORTO",
+    "codigo": "GYN",
+    "id": "38",
+    "cidade": "GOI\u00c2NIA",
+    "lat": "-16.628425",
+    "lng": "-49.207465",
+    "cep": "74672-839",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "GOIANIA REPUBLICA DO LIBANO": {
+    "value": "GOIANIA REPUBLICA DO LIBANO",
+    "label": "GOIANIA REPUBLICA DO LIBANO,MOVHCG,RUA",
+    "label2": "GOIANIA REPUBLICA DO LIBANO",
+    "codigo": "MOVHCG",
+    "id": "90",
+    "cidade": "GOI\u00c2NIA",
+    "lat": "-16.683027",
+    "lng": "-49.266432",
+    "cep": "74115-030",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 07:00 \u00e0s 15:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "15:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "GOIANIA T63": {
+    "value": "GOIANIA T63",
+    "label": "GOIANIA T63,GOIAT,RUA",
+    "label2": "GOIANIA T63",
+    "codigo": "GOIAT",
+    "id": "907",
+    "cidade": "GOI\u00c2NIA",
+    "lat": "-16.713675",
+    "lng": "-49.2622394",
+    "cep": "74823-340",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bado 07:00 \u00e0s 18:00  | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO VERDE": {
+    "value": "RIO VERDE",
+    "label": "RIO VERDE,MOVRVD,RUA",
+    "label2": "RIO VERDE",
+    "codigo": "MOVRVD",
+    "id": "126",
+    "cidade": "RIO VERDE",
+    "lat": "-17.800993",
+    "lng": "-50.943231",
+    "cep": "75901-507",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados -  Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "IMPERATRIZ AEROPORTO": {
+    "value": "IMPERATRIZ AEROPORTO",
+    "label": "IMPERATRIZ AEROPORTO,IMP,Aeroporto",
+    "label2": "IMPERATRIZ AEROPORTO",
+    "codigo": "IMP",
+    "id": "174",
+    "cidade": "IMPERATRIZ",
+    "lat": "-5.534209",
+    "lng": "-47.458466",
+    "cep": "65913-415",
+    "hora": "Segunda a Sexta - 01:00 \u00e0s 18:00 | S\u00e1bado 01:00 \u00e0s 14:00 | Domingos e Feriados - 07:00 \u00e0s 14:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "01:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "01:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO LUIS - SHOPPING DA ILHA": {
+    "value": "SAO LUIS - SHOPPING DA ILHA",
+    "label": "SAO LUIS - SHOPPING DA ILHA,MOVSDI,Shopping",
+    "label2": "SAO LUIS - SHOPPING DA ILHA",
+    "codigo": "MOVSDI",
+    "id": "1079",
+    "cidade": "S\u00c3O LU\u00cdS",
+    "lat": "-2.527333049540787",
+    "lng": "-44.255305590028584",
+    "cep": "65074-115",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 22:00 | Domingos e Feriados - 14:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO LUIS AEROPORTO": {
+    "value": "SAO LUIS AEROPORTO",
+    "label": "SAO LUIS AEROPORTO,SLZ,Aeroporto",
+    "label2": "SAO LUIS AEROPORTO",
+    "codigo": "SLZ",
+    "id": "27",
+    "cidade": "S\u00c3O LU\u00cdS",
+    "lat": "-2.582322",
+    "lng": "-44.239480",
+    "cep": "65056-480",
+    "hora": "Todos os dias 24 horas (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CUIABA CENTRO": {
+    "value": "CUIABA CENTRO",
+    "label": "CUIABA CENTRO,CGBC01,RUA",
+    "label2": "CUIABA CENTRO",
+    "codigo": "CGBC01",
+    "id": "383",
+    "cidade": "CUIAB\u00c1",
+    "lat": "-15.619515",
+    "lng": "-56.089214",
+    "cep": "78065-310",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SINOP": {
+    "value": "SINOP",
+    "label": "SINOP,MOVSNP,RUA",
+    "label2": "SINOP",
+    "codigo": "MOVSNP",
+    "id": "1037",
+    "cidade": "SINOP",
+    "lat": "-11.85210",
+    "lng": "-55.53270",
+    "cep": "78555-350",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CUIABA AEROPORTO": {
+    "value": "CUIABA AEROPORTO",
+    "label": "CUIABA AEROPORTO,CGB,Aeroporto",
+    "label2": "CUIABA AEROPORTO",
+    "codigo": "CGB",
+    "id": "54",
+    "cidade": "V\u00c1RZEA GRANDE",
+    "lat": "-15.651069",
+    "lng": "-56.122128",
+    "cep": "78110-900",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CAMPO GRANDE AEROPORTO": {
+    "value": "CAMPO GRANDE AEROPORTO",
+    "label": "CAMPO GRANDE AEROPORTO,CGR,Aeroporto",
+    "label2": "CAMPO GRANDE AEROPORTO",
+    "codigo": "CGR",
+    "id": "26",
+    "cidade": "CAMPO GRANDE",
+    "lat": "-20.456297",
+    "lng": "-54.674364",
+    "cep": "79101-901",
+    "hora": "Todos os dias 24hs  (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CAMPO GRANDE CENTRO": {
+    "value": "CAMPO GRANDE CENTRO",
+    "label": "CAMPO GRANDE CENTRO,MOVCGC,RUA",
+    "label2": "CAMPO GRANDE CENTRO",
+    "codigo": "MOVCGC",
+    "id": "205",
+    "cidade": "CAMPO GRANDE",
+    "lat": "-20.475033",
+    "lng": "-54.589773",
+    "cep": "79041-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE - PRADO - TERESA CRISTINA": {
+    "value": "BELO HORIZONTE - PRADO - TERESA CRISTINA",
+    "label": "BELO HORIZONTE - PRADO - TERESA CRISTINA,BHVE,RUA",
+    "label2": "BELO HORIZONTE - PRADO - TERESA CRISTINA",
+    "codigo": "BHVE",
+    "id": "517",
+    "cidade": "BELO HORIZONTE",
+    "lat": "-19.9169998",
+    "lng": "-43.96519",
+    "cep": "30410-600",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE BARAO HOMEM DE MELO": {
+    "value": "BELO HORIZONTE BARAO HOMEM DE MELO",
+    "label": "BELO HORIZONTE BARAO HOMEM DE MELO,MOVBHC,RUA",
+    "label2": "BELO HORIZONTE BARAO HOMEM DE MELO",
+    "codigo": "MOVBHC",
+    "id": "193",
+    "cidade": "BELO HORIZONTE",
+    "lat": "-19.960637",
+    "lng": "-43.966581",
+    "cep": "30494-085",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 12:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE LOURDES BIAS FORTES": {
+    "value": "BELO HORIZONTE LOURDES BIAS FORTES",
+    "label": "BELO HORIZONTE LOURDES BIAS FORTES,MOVBHZ,RUA",
+    "label2": "BELO HORIZONTE LOURDES BIAS FORTES",
+    "codigo": "MOVBHZ",
+    "id": "15",
+    "cidade": "BELO HORIZONTE",
+    "lat": "-19.929846",
+    "lng": "-43.940845",
+    "cep": "30170-010",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 12:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE PAMPULHA ANTONIO CARLOS": {
+    "value": "BELO HORIZONTE PAMPULHA ANTONIO CARLOS",
+    "label": "BELO HORIZONTE PAMPULHA ANTONIO CARLOS,PLU,RUA",
+    "label2": "BELO HORIZONTE PAMPULHA ANTONIO CARLOS",
+    "codigo": "PLU",
+    "id": "203",
+    "cidade": "BELO HORIZONTE",
+    "lat": "-19.870526",
+    "lng": "-43.955826",
+    "cep": "31270-010",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 21:00 | S\u00e1bados - 07:00 \u00e0s 18:00 | Domingos e Feriados - 13:00 \u00e0s 21:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "13:00:00",
+          "End": "21:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "21:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE PAMPULHA CATALAO": {
+    "value": "BELO HORIZONTE PAMPULHA CATALAO",
+    "label": "BELO HORIZONTE PAMPULHA CATALAO,MOVBHCL,RUA",
+    "label2": "BELO HORIZONTE PAMPULHA CATALAO",
+    "codigo": "MOVBHCL",
+    "id": "303",
+    "cidade": "BELO HORIZONTE",
+    "lat": "-19.9038208",
+    "lng": "-43.9677371",
+    "cep": "31230-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BETIM": {
+    "value": "BETIM",
+    "label": "BETIM,MOVBET,RUA",
+    "label2": "BETIM",
+    "codigo": "MOVBET",
+    "id": "117",
+    "cidade": "BETIM",
+    "lat": "-19.964196",
+    "lng": "-44.190290",
+    "cep": "32670-248",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CONTAGEM": {
+    "value": "CONTAGEM",
+    "label": "CONTAGEM,MOVCTG,RUA",
+    "label2": "CONTAGEM",
+    "codigo": "MOVCTG",
+    "id": "147",
+    "cidade": "CONTAGEM",
+    "lat": "-19.9514561",
+    "lng": "-44.0286691",
+    "cep": "32210-180",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 12:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "IPATINGA - SHOPPING VALE DO ACO": {
+    "value": "IPATINGA - SHOPPING VALE DO ACO",
+    "label": "IPATINGA - SHOPPING VALE DO ACO,SVA,Shopping",
+    "label2": "IPATINGA - SHOPPING VALE DO ACO",
+    "codigo": "SVA",
+    "id": "908",
+    "cidade": "IPATINGA",
+    "lat": "-19.4959997",
+    "lng": "-42.5677844",
+    "cep": "35160-291",
+    "hora": "Segunda a Sexta - 09:00 \u00e0s 19:00 | S\u00e1bados - 09:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "09:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "09:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JUIZ DE FORA CENTRO": {
+    "value": "JUIZ DE FORA CENTRO",
+    "label": "JUIZ DE FORA CENTRO,JDFC,RUA",
+    "label2": "JUIZ DE FORA CENTRO",
+    "codigo": "JDFC",
+    "id": "326",
+    "cidade": "JUIZ DE FORA",
+    "lat": "-21.746103",
+    "lng": "-43.353936",
+    "cep": "36035-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 16:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BELO HORIZONTE AEROPORTO CONFINS": {
+    "value": "BELO HORIZONTE AEROPORTO CONFINS",
+    "label": "BELO HORIZONTE AEROPORTO CONFINS,CNF,Aeroporto",
+    "label2": "BELO HORIZONTE AEROPORTO CONFINS",
+    "codigo": "CNF",
+    "id": "8",
+    "cidade": "LAGOA SANTA",
+    "lat": "-19.658218",
+    "lng": "-43.941893",
+    "cep": "33400-000",
+    "hora": "Todos os dias 24hs (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "MONTES CLAROS AEROPORTO": {
+    "value": "MONTES CLAROS AEROPORTO",
+    "label": "MONTES CLAROS AEROPORTO,MOC,Aeroporto",
+    "label2": "MONTES CLAROS AEROPORTO",
+    "codigo": "MOC",
+    "id": "154",
+    "cidade": "MONTES CLAROS",
+    "lat": "-16.704923",
+    "lng": "-43.819818",
+    "cep": "39404-844",
+    "hora": "Segunda a Sexta - 04:00 \u00e0s 23:59 | S\u00e1bados - 05:00 \u00e0s 14:00 | Domingos e Feriados - 15:00 \u00e0s 23:59",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "15:00:00",
+          "End": "23:59:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "04:00:00",
+          "End": "23:59:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "05:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "POUSO ALEGRE": {
+    "value": "POUSO ALEGRE",
+    "label": "POUSO ALEGRE,MOVPAL,RUA",
+    "label2": "POUSO ALEGRE",
+    "codigo": "MOVPAL",
+    "id": "135",
+    "cidade": "POUSO ALEGRE",
+    "lat": "-22.233352",
+    "lng": "-45.926702",
+    "cep": "37554-020",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "IPATINGA AEROPORTO": {
+    "value": "IPATINGA AEROPORTO",
+    "label": "IPATINGA AEROPORTO,IPTA,Aeroporto",
+    "label2": "IPATINGA AEROPORTO",
+    "codigo": "IPTA",
+    "id": "1109",
+    "cidade": "SANTANA DO PARA\u00cdSO",
+    "lat": "-19.4746035",
+    "lng": "-42.4878216",
+    "cep": "35179-000",
+    "hora": "Segunda a Sexta 8:00h \u00e0s 09:35h | 10:50h \u00e0s 12:40h | 14:00h \u00e0s 15:45h | 18:00h \u00e0s 19:25h | S\u00e1bados 08:30h \u00e0s 10:00h | Domingos e Feriados Fechado",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "09:35:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:30:00",
+          "End": "10:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "UBERABA AEROPORTO": {
+    "value": "UBERABA AEROPORTO",
+    "label": "UBERABA AEROPORTO,UBA,Aeroporto",
+    "label2": "UBERABA AEROPORTO",
+    "codigo": "UBA",
+    "id": "116",
+    "cidade": "UBERABA",
+    "lat": "-19.765015",
+    "lng": "-47.961712",
+    "cep": "38055-500",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "UBERLANDIA AEROPORTO": {
+    "value": "UBERLANDIA AEROPORTO",
+    "label": "UBERLANDIA AEROPORTO,UDI,Aeroporto",
+    "label2": "UBERLANDIA AEROPORTO",
+    "codigo": "UDI",
+    "id": "347",
+    "cidade": "UBERL\u00c2NDIA",
+    "lat": "-18.8878455",
+    "lng": "-48.2332034",
+    "cep": "38406-382",
+    "hora": "Segunda a Sexta - 04:00 \u00e0s 23:00 | S\u00e1bados, Domingos e Feriados - 06:00 \u00e0s 22:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "06:00:00",
+          "End": "22:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "04:00:00",
+          "End": "23:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JOAO PESSOA AEROPORTO": {
+    "value": "JOAO PESSOA AEROPORTO",
+    "label": "JOAO PESSOA AEROPORTO,JPA,Aeroporto",
+    "label2": "JOAO PESSOA AEROPORTO",
+    "codigo": "JPA",
+    "id": "73",
+    "cidade": "BAYEUX",
+    "lat": "-7.145439",
+    "lng": "-34.948186",
+    "cep": "58308-901",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CAMPINA GRANDE AEROPORTO": {
+    "value": "CAMPINA GRANDE AEROPORTO",
+    "label": "CAMPINA GRANDE AEROPORTO,CPV,Aeroporto",
+    "label2": "CAMPINA GRANDE AEROPORTO",
+    "codigo": "CPV",
+    "id": "110",
+    "cidade": "CAMPINA GRANDE",
+    "lat": "-7.2688784",
+    "lng": "-35.8962093",
+    "cep": "58418-410",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAMPINA GRANDE CENTRO": {
+    "value": "CAMPINA GRANDE CENTRO",
+    "label": "CAMPINA GRANDE CENTRO,MOVPCG,Aeroporto",
+    "label2": "CAMPINA GRANDE CENTRO",
+    "codigo": "MOVPCG",
+    "id": "1241",
+    "cidade": "CAMPINA GRANDE",
+    "lat": "-7.230941438647434",
+    "lng": "-35.872225322089776",
+    "cep": "58410-185",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JOAO PESSOA EPITACIO": {
+    "value": "JOAO PESSOA EPITACIO",
+    "label": "JOAO PESSOA EPITACIO,JPAC01,RUA",
+    "label2": "JOAO PESSOA EPITACIO",
+    "codigo": "JPAC01",
+    "id": "388",
+    "cidade": "JO\u00c3O PESSOA",
+    "lat": "-7.119348",
+    "lng": "-34.860693",
+    "cep": "58030-906",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CASCAVEL": {
+    "value": "CASCAVEL",
+    "label": "CASCAVEL,MOVCCV,RUA",
+    "label2": "CASCAVEL",
+    "codigo": "MOVCCV",
+    "id": "215",
+    "cidade": "CASCAVEL",
+    "lat": "-24.965732",
+    "lng": "-53.483245",
+    "cep": "85805-030",
+    "hora": "Segunda a sexta - 07:00 \u00e0s 18:00 / S\u00e1bado -08:00 \u00e0s 14:00 /Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CURITIBA CENTRO": {
+    "value": "CURITIBA CENTRO",
+    "label": "CURITIBA CENTRO,MOVCWB,RUA",
+    "label2": "CURITIBA CENTRO",
+    "codigo": "MOVCWB",
+    "id": "69",
+    "cidade": "CURITIBA",
+    "lat": "-25.448872",
+    "lng": "-49.261603",
+    "cep": "80220-180",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bado 08:00 \u00e0s 14:00 | Domingos e Feriados - fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CURITIBA SHOPPING": {
+    "value": "CURITIBA SHOPPING",
+    "label": "CURITIBA SHOPPING,MOVCSH,Shopping",
+    "label2": "CURITIBA SHOPPING",
+    "codigo": "MOVCSH",
+    "id": "1042",
+    "cidade": "CURITIBA",
+    "lat": "-25.44095",
+    "lng": "-49.27749",
+    "cep": "80250-030",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 10:00 \u00e1s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "FOZ DO IGUACU AEROPORTO": {
+    "value": "FOZ DO IGUACU AEROPORTO",
+    "label": "FOZ DO IGUACU AEROPORTO,IGU,Aeroporto",
+    "label2": "FOZ DO IGUACU AEROPORTO",
+    "codigo": "IGU",
+    "id": "71",
+    "cidade": "FOZ DO IGUA\u00c7U",
+    "lat": "-25.600917",
+    "lng": "-54.492108",
+    "cep": "85853-900",
+    "hora": "Todos os dias: 24h (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "LONDRINA - SHOPPING AURORA": {
+    "value": "LONDRINA - SHOPPING AURORA",
+    "label": "LONDRINA - SHOPPING AURORA,MOVLSA,Shopping",
+    "label2": "LONDRINA - SHOPPING AURORA",
+    "codigo": "MOVLSA",
+    "id": "906",
+    "cidade": "LONDRINA",
+    "lat": "-23.3291384",
+    "lng": "-51.1777968",
+    "cep": "86050-460",
+    "hora": "Segunda a sabado das 08:00h \u00e0s 20:00h | Domingos e feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "LONDRINA AEROPORTO": {
+    "value": "LONDRINA AEROPORTO",
+    "label": "LONDRINA AEROPORTO,LDB,Aeroporto",
+    "label2": "LONDRINA AEROPORTO",
+    "codigo": "LDB",
+    "id": "115",
+    "cidade": "LONDRINA",
+    "lat": "-23.326438",
+    "lng": "-51.139629",
+    "cep": "86039-100",
+    "hora": "Todos os dias - 06:00 \u00e0s 23:59 (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MARINGA AEROPORTO": {
+    "value": "MARINGA AEROPORTO",
+    "label": "MARINGA AEROPORTO,MGF,Aeroporto",
+    "label2": "MARINGA AEROPORTO",
+    "codigo": "MGF",
+    "id": "190",
+    "cidade": "MARING\u00c1",
+    "lat": "-23.480451",
+    "lng": "-52.013980",
+    "cep": "87065-665",
+    "hora": "Todos os dias das 06:00h as 22:00h (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MARINGA CENTRO": {
+    "value": "MARINGA CENTRO",
+    "label": "MARINGA CENTRO,MGFC,RUA",
+    "label2": "MARINGA CENTRO",
+    "codigo": "MGFC",
+    "id": "889",
+    "cidade": "MARING\u00c1",
+    "lat": "-23.420124",
+    "lng": "-51.909247",
+    "cep": "87030-121",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 18:00 | S\u00e1bados - 8:00 \u00e0s 14:00 | Domingos e Feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PONTA GROSSA": {
+    "value": "PONTA GROSSA",
+    "label": "PONTA GROSSA,MOVPTG,RUA",
+    "label2": "PONTA GROSSA",
+    "codigo": "MOVPTG",
+    "id": "214",
+    "cidade": "PONTA GROSSA",
+    "lat": "-25.129727",
+    "lng": "-50.154862",
+    "cep": "84045-100",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bado 8:00 \u00e0s 14:00 | Domingos e Feriado - fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CURITIBA AEROPORTO": {
+    "value": "CURITIBA AEROPORTO",
+    "label": "CURITIBA AEROPORTO,CWB,Aeroporto",
+    "label2": "CURITIBA AEROPORTO",
+    "codigo": "CWB",
+    "id": "167",
+    "cidade": "S\u00c3O JOS\u00c9 DOS PINHAIS",
+    "lat": "-25.532883",
+    "lng": "-49.172674",
+    "cep": "83010-900",
+    "hora": "Todos os dias 24 horas (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "BELEM AEROPORTO": {
+    "value": "BELEM AEROPORTO",
+    "label": "BELEM AEROPORTO,BEL,Aeroporto",
+    "label2": "BELEM AEROPORTO",
+    "codigo": "BEL",
+    "id": "56",
+    "cidade": "BEL\u00c9M",
+    "lat": "-1.389298",
+    "lng": "-48.481069",
+    "cep": "66115-970",
+    "hora": "Todos os dias 24 horas (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "BELEM CENTRO": {
+    "value": "BELEM CENTRO",
+    "label": "BELEM CENTRO,MOVBLC,RUA",
+    "label2": "BELEM CENTRO",
+    "codigo": "MOVBLC",
+    "id": "227",
+    "cidade": "BEL\u00c9M",
+    "lat": "-1.430282",
+    "lng": "-48.460202",
+    "cep": "66093-671",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MARABA AEROPORTO EXTERNO": {
+    "value": "MARABA AEROPORTO EXTERNO",
+    "label": "MARABA AEROPORTO EXTERNO,MAB,Aeroporto",
+    "label2": "MARABA AEROPORTO EXTERNO",
+    "codigo": "MAB",
+    "id": "170",
+    "cidade": "MARAB\u00c1",
+    "lat": "-5.372534",
+    "lng": "-49.132850",
+    "cep": "68502-290",
+    "hora": "Segunda a Sexta - 00:00 \u00e0s 05:30 - 08:00 \u00e0s 18:00 - 22:00 \u00e0s 23:59 | S\u00e1bados- 00:00 \u00e0s 05:30 - 08:00 \u00e0s 17:00 | Domingos e Feriados: Fechada",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "05:30:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Weds": "true",
+          "Thur": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "17:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PARAUAPEBAS AEROPORTO": {
+    "value": "PARAUAPEBAS AEROPORTO",
+    "label": "PARAUAPEBAS AEROPORTO,CRJ,Aeroporto",
+    "label2": "PARAUAPEBAS AEROPORTO",
+    "codigo": "CRJ",
+    "id": "111",
+    "cidade": "Parauapebas",
+    "lat": "-6.114447",
+    "lng": "-50.001018",
+    "cep": "68515-000",
+    "hora": "Segunda a Sexta - 09:00 \u00e0s 17:40 | Domingos: 12:00 \u00e0s 17:45 | S\u00e1bados e Feriados - Fechada.",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "17:45:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "09:00:00",
+          "End": "17:40:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PARAUAPEBAS CENTRO": {
+    "value": "PARAUAPEBAS CENTRO",
+    "label": "PARAUAPEBAS CENTRO,MOVCKS,RUA",
+    "label2": "PARAUAPEBAS CENTRO",
+    "codigo": "MOVCKS",
+    "id": "75",
+    "cidade": "Parauapebas",
+    "lat": "-6.073085",
+    "lng": "-49.894403",
+    "cep": "68515-000",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PATTEO OLINDA SHOPPING": {
+    "value": "PATTEO OLINDA SHOPPING",
+    "label": "PATTEO OLINDA SHOPPING,MOVPSH,Shopping",
+    "label2": "PATTEO OLINDA SHOPPING",
+    "codigo": "MOVPSH",
+    "id": "1073",
+    "cidade": "OLINDA",
+    "lat": "-7.99320",
+    "lng": "-34.84029",
+    "cep": "53130-645",
+    "hora": "Seg a s\u00e1b 08h as 19h  Dom e feriados 12h as 19h",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "19:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PETROLINA AEROPORTO": {
+    "value": "PETROLINA AEROPORTO",
+    "label": "PETROLINA AEROPORTO,PNZ,Aeroporto",
+    "label2": "PETROLINA AEROPORTO",
+    "codigo": "PNZ",
+    "id": "169",
+    "cidade": "PETROLINA",
+    "lat": "-9.366478",
+    "lng": "-40.565870",
+    "cep": "56313-900",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "RECIFE AEROPORTO": {
+    "value": "RECIFE AEROPORTO",
+    "label": "RECIFE AEROPORTO,REC,Aeroporto",
+    "label2": "RECIFE AEROPORTO",
+    "codigo": "REC",
+    "id": "25",
+    "cidade": "RECIFE",
+    "lat": "-8.0989302",
+    "lng": "-34.9260123",
+    "cep": "51210-001",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "RECIFE CAXANGA": {
+    "value": "RECIFE CAXANGA",
+    "label": "RECIFE CAXANGA,RECC02,RUA",
+    "label2": "RECIFE CAXANGA",
+    "codigo": "RECC02",
+    "id": "357",
+    "cidade": "RECIFE",
+    "lat": "-8.042861",
+    "lng": "-34.934081",
+    "cep": "50731-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RECIFE ESPINHEIRO": {
+    "value": "RECIFE ESPINHEIRO",
+    "label": "RECIFE ESPINHEIRO,RECN01,RUA",
+    "label2": "RECIFE ESPINHEIRO",
+    "codigo": "RECN01",
+    "id": "932",
+    "cidade": "RECIFE",
+    "lat": "-8.0397328",
+    "lng": "-34.8935286",
+    "cep": "52021-180",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 16:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "TERESINA AEROPORTO": {
+    "value": "TERESINA AEROPORTO",
+    "label": "TERESINA AEROPORTO,THE,Aeroporto",
+    "label2": "TERESINA AEROPORTO",
+    "codigo": "THE",
+    "id": "60",
+    "cidade": "TERESINA",
+    "lat": "-5.063336",
+    "lng": "-42.821099",
+    "cep": "64003-700",
+    "hora": "Todos os dias 24 horas (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CAMPOS DOS GOYTACAZES": {
+    "value": "CAMPOS DOS GOYTACAZES",
+    "label": "CAMPOS DOS GOYTACAZES,MOVCPG,RUA",
+    "label2": "CAMPOS DOS GOYTACAZES",
+    "codigo": "MOVCPG",
+    "id": "124",
+    "cidade": "CAMPOS DOS GOYTACAZES",
+    "lat": "-21.767449",
+    "lng": "-41.322017",
+    "cep": "28020-740",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "DUQUE DE CAXIAS": {
+    "value": "DUQUE DE CAXIAS",
+    "label": "DUQUE DE CAXIAS,DCX,RUA",
+    "label2": "DUQUE DE CAXIAS",
+    "codigo": "DCX",
+    "id": "934",
+    "cidade": "DUQUE DE CAXIAS",
+    "lat": "-22.791857",
+    "lng": "-43.301900",
+    "cep": "25075-095",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 19:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados: Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MACAE": {
+    "value": "MACAE",
+    "label": "MACAE,MOVMCE,RUA",
+    "label2": "MACAE",
+    "codigo": "MOVMCE",
+    "id": "67",
+    "cidade": "MACA\u00c9",
+    "lat": "-22.385487",
+    "lng": "-41.775633",
+    "cep": "27915-012",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NITEROI": {
+    "value": "NITEROI",
+    "label": "NITEROI,MOVNTR,RUA",
+    "label2": "NITEROI",
+    "codigo": "MOVNTR",
+    "id": "122",
+    "cidade": "NITER\u00d3I",
+    "lat": "-22.889091",
+    "lng": "-43.114155",
+    "cep": "24120-196",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 18:00 | Domingos e Feriado - fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NOVA IGUACU": {
+    "value": "NOVA IGUACU",
+    "label": "NOVA IGUACU,RNI,RUA",
+    "label2": "NOVA IGUACU",
+    "codigo": "RNI",
+    "id": "883",
+    "cidade": "NOVA IGUA\u00c7U",
+    "lat": "-22.746142",
+    "lng": "-43.446004",
+    "cep": "26285-000",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 16:00 | Domingos e Feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "16:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PETROPOLIS": {
+    "value": "PETROPOLIS",
+    "label": "PETROPOLIS,MOVPET,RUA",
+    "label2": "PETROPOLIS",
+    "codigo": "MOVPET",
+    "id": "933",
+    "cidade": "PETR\u00d3POLIS",
+    "lat": "-22.507436",
+    "lng": "-43.194517",
+    "cep": "25660-004",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 18:00 | S\u00e1bados, Domingos e Feriados - 07:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RESENDE": {
+    "value": "RESENDE",
+    "label": "RESENDE,MOVQRZ,RUA",
+    "label2": "RESENDE",
+    "codigo": "MOVQRZ",
+    "id": "58",
+    "cidade": "RESENDE",
+    "lat": "-22.464583",
+    "lng": "-44.441054",
+    "cep": "27535-320",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados: 08:00 \u00e0s 14:00 | Domingos e Feriados - fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - BANGU SHOPPING": {
+    "value": "RIO DE JANEIRO - BANGU SHOPPING",
+    "label": "RIO DE JANEIRO - BANGU SHOPPING,MOVRBS,Shopping",
+    "label2": "RIO DE JANEIRO - BANGU SHOPPING",
+    "codigo": "MOVRBS",
+    "id": "1016",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.878426",
+    "lng": "-43.467012",
+    "cep": "21820-005",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 10:00 \u00e0s 18:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "18:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - BARRA DA TIJUCA": {
+    "value": "RIO DE JANEIRO - BARRA DA TIJUCA",
+    "label": "RIO DE JANEIRO - BARRA DA TIJUCA,MOVRJB,RUA",
+    "label2": "RIO DE JANEIRO - BARRA DA TIJUCA",
+    "codigo": "MOVRJB",
+    "id": "3",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-23.004810",
+    "lng": "-43.321680",
+    "cep": "22640-100",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - BARRA DA TIJUCA AYRTON SENNA": {
+    "value": "RIO DE JANEIRO - BARRA DA TIJUCA AYRTON SENNA",
+    "label": "RIO DE JANEIRO - BARRA DA TIJUCA AYRTON SENNA,RIOAYR,RUA",
+    "label2": "RIO DE JANEIRO - BARRA DA TIJUCA AYRTON SENNA",
+    "codigo": "RIOAYR",
+    "id": "435",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.9712318",
+    "lng": "-43.3643493",
+    "cep": "22775-004",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - BARRA DA TIJUCA EXTRA": {
+    "value": "RIO DE JANEIRO - BARRA DA TIJUCA EXTRA",
+    "label": "RIO DE JANEIRO - BARRA DA TIJUCA EXTRA,RIOS02,RUA",
+    "label2": "RIO DE JANEIRO - BARRA DA TIJUCA EXTRA",
+    "codigo": "RIOS02",
+    "id": "442",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.998818",
+    "lng": "-43.326610",
+    "cep": "22640-900",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 07:00 \u00e0s 18:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - CAMPO GRANDE": {
+    "value": "RIO DE JANEIRO - CAMPO GRANDE",
+    "label": "RIO DE JANEIRO - CAMPO GRANDE,RCM,RUA",
+    "label2": "RIO DE JANEIRO - CAMPO GRANDE",
+    "codigo": "RCM",
+    "id": "1039",
+    "cidade": "Rio de Janeiro",
+    "lat": "-22.92336",
+    "lng": "-43.56765",
+    "cep": "23045-830",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - COPACABANA RIO SUL SH": {
+    "value": "RIO DE JANEIRO - COPACABANA RIO SUL SH",
+    "label": "RIO DE JANEIRO - COPACABANA RIO SUL SH,MOVCOPA,Shopping",
+    "label2": "RIO DE JANEIRO - COPACABANA RIO SUL SH",
+    "codigo": "MOVCOPA",
+    "id": "40",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.9579702",
+    "lng": "-43.178285",
+    "cep": "22290-090",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos - 12:00 \u00e0s 20:00 | Feriados - 08:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - GALEAO AEROPORTO": {
+    "value": "RIO DE JANEIRO - GALEAO AEROPORTO",
+    "label": "RIO DE JANEIRO - GALEAO AEROPORTO,GIG,Aeroporto",
+    "label2": "RIO DE JANEIRO - GALEAO AEROPORTO",
+    "codigo": "GIG",
+    "id": "9",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.815247",
+    "lng": "-43.241231",
+    "cep": "21941-570",
+    "hora": "Todos os dias 24hs (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "RIO DE JANEIRO - JACAREPAGUA": {
+    "value": "RIO DE JANEIRO - JACAREPAGUA",
+    "label": "RIO DE JANEIRO - JACAREPAGUA,MOVJPG,Hotel",
+    "label2": "RIO DE JANEIRO - JACAREPAGUA",
+    "codigo": "MOVJPG",
+    "id": "80",
+    "cidade": "Rio de Janeiro",
+    "lat": "-22.965783",
+    "lng": "-43.397086",
+    "cep": "22780-160",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - LEBLON": {
+    "value": "RIO DE JANEIRO - LEBLON",
+    "label": "RIO DE JANEIRO - LEBLON,RJL,RUA",
+    "label2": "RIO DE JANEIRO - LEBLON",
+    "codigo": "RJL",
+    "id": "727",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.9814997",
+    "lng": "-43.2245594",
+    "cep": "22430-220",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 16:00 | Domingos e Feriados - 08:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - MADUREIRA": {
+    "value": "RIO DE JANEIRO - MADUREIRA",
+    "label": "RIO DE JANEIRO - MADUREIRA,MOVMDR,RUA",
+    "label2": "RIO DE JANEIRO - MADUREIRA",
+    "codigo": "MOVMDR",
+    "id": "201",
+    "cidade": "Rio de Janeiro",
+    "lat": "-22.879780",
+    "lng": "-43.355463",
+    "cep": "21341-331",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - NORTE SHOPPING": {
+    "value": "RIO DE JANEIRO - NORTE SHOPPING",
+    "label": "RIO DE JANEIRO - NORTE SHOPPING,MOVNRSH,Shopping",
+    "label2": "RIO DE JANEIRO - NORTE SHOPPING",
+    "codigo": "MOVNRSH",
+    "id": "1106",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.88304804845535",
+    "lng": "-43.28350040743825",
+    "cep": "20771-004",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - SHOPPING BOULEVARD": {
+    "value": "RIO DE JANEIRO - SHOPPING BOULEVARD",
+    "label": "RIO DE JANEIRO - SHOPPING BOULEVARD,MOVSHH,Shopping",
+    "label2": "RIO DE JANEIRO - SHOPPING BOULEVARD",
+    "codigo": "MOVSHH",
+    "id": "339",
+    "cidade": "Rio de Janeiro",
+    "lat": "-22.919485",
+    "lng": "-43.249960",
+    "cep": "20541-372",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO-SANTOS DUMONT AEROMARINA GLORIA": {
+    "value": "RIO DE JANEIRO-SANTOS DUMONT AEROMARINA GLORIA",
+    "label": "RIO DE JANEIRO-SANTOS DUMONT AEROMARINA GLORIA,SDU,Aeroporto",
+    "label2": "RIO DE JANEIRO-SANTOS DUMONT AEROMARINA GLORIA",
+    "codigo": "SDU",
+    "id": "14",
+    "cidade": "RIO DE JANEIRO",
+    "lat": "-22.921059",
+    "lng": "-43.170558",
+    "cep": "20021-140",
+    "hora": "Todos os dias: 06:00 \u00e0s 23:00 (Inclusive Feriados). Box apenas hor\u00e1rio de voo",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "06:00:00",
+          "End": "23:00:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIO DE JANEIRO - SAO GONCALO": {
+    "value": "RIO DE JANEIRO - SAO GONCALO",
+    "label": "RIO DE JANEIRO - SAO GONCALO,MOVRSGC,RUA",
+    "label2": "RIO DE JANEIRO - SAO GONCALO",
+    "codigo": "MOVRSGC",
+    "id": "1243",
+    "cidade": "S\u00c3O GON\u00c7ALO",
+    "lat": "-22.8260961",
+    "lng": "-43.0156124",
+    "cep": "24451-715",
+    "hora": "Segunda a Sexta: 7:00 \u00e0s 19:00 | S\u00e1bado: 7:00 \u00e0s 14:00 | Domingos e Feriados: 12:00 \u00e0s 19:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "19:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "VOLTA REDONDA - SHOPPING PARK SUL": {
+    "value": "VOLTA REDONDA - SHOPPING PARK SUL",
+    "label": "VOLTA REDONDA - SHOPPING PARK SUL,VRS,Shopping",
+    "label2": "VOLTA REDONDA - SHOPPING PARK SUL",
+    "codigo": "VRS",
+    "id": "914",
+    "cidade": "VOLTA REDONDA",
+    "lat": "-22.5225938",
+    "lng": "-44.0788757",
+    "cep": "27258-000",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 10:00 \u00e0s 16:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "16:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MOSSORO": {
+    "value": "MOSSORO",
+    "label": "MOSSORO,MOVMSR,RUA",
+    "label2": "MOSSORO",
+    "codigo": "MOVMSR",
+    "id": "148",
+    "cidade": "MOSSOR\u00d3",
+    "lat": "-5.197545",
+    "lng": "-37.340588",
+    "cep": "59625-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NATAL PONTA NEGRA": {
+    "value": "NATAL PONTA NEGRA",
+    "label": "NATAL PONTA NEGRA,MOVNTC,RUA",
+    "label2": "NATAL PONTA NEGRA",
+    "codigo": "MOVNTC",
+    "id": "194",
+    "cidade": "NATAL",
+    "lat": "-5.872751",
+    "lng": "-35.179536",
+    "cep": "59090-080",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NATAL AEROPORTO": {
+    "value": "NATAL AEROPORTO",
+    "label": "NATAL AEROPORTO,NAT,Aeroporto",
+    "label2": "NATAL AEROPORTO",
+    "codigo": "NAT",
+    "id": "57",
+    "cidade": "S\u00e3o Gon\u00e7alo do Amarante",
+    "lat": "-5.763028",
+    "lng": "-35.372594",
+    "cep": "59290-000",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "CANOAS": {
+    "value": "CANOAS",
+    "label": "CANOAS,CNS,RUA",
+    "label2": "CANOAS",
+    "codigo": "CNS",
+    "id": "893",
+    "cidade": "CANOAS",
+    "lat": "-29.93053",
+    "lng": "-51.17723",
+    "cep": "92110-002",
+    "hora": "Segunda a Sexta: 07:00 \u00e0s 19:00 | S\u00e1bados - 8:00 \u00e0s 18:00 | Domingos e Feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAXIAS DO SUL AEROPORTO": {
+    "value": "CAXIAS DO SUL AEROPORTO",
+    "label": "CAXIAS DO SUL AEROPORTO,CXJ,Aeroporto",
+    "label2": "CAXIAS DO SUL AEROPORTO",
+    "codigo": "CXJ",
+    "id": "178",
+    "cidade": "CAXIAS DO SUL",
+    "lat": "-29.194910",
+    "lng": "-51.186561",
+    "cep": "95098-420",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 18:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NOVO HAMBURGO": {
+    "value": "NOVO HAMBURGO",
+    "label": "NOVO HAMBURGO,MOVNHG,RUA",
+    "label2": "NOVO HAMBURGO",
+    "codigo": "MOVNHG",
+    "id": "141",
+    "cidade": "NOVO HAMBURGO",
+    "lat": "-29.691216",
+    "lng": "-51.135880",
+    "cep": "93336-001",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bado - 08:00 \u00e0s 14:00|Domingos e Feriado - fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PELOTAS": {
+    "value": "PELOTAS",
+    "label": "PELOTAS,MOVPLT,RUA",
+    "label2": "PELOTAS",
+    "codigo": "MOVPLT",
+    "id": "228",
+    "cidade": "PELOTAS",
+    "lat": "-31.744818",
+    "lng": "-52.342642",
+    "cep": "96020-151",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PORTO ALEGRE - SHOPPING BARRA SUL": {
+    "value": "PORTO ALEGRE - SHOPPING BARRA SUL",
+    "label": "PORTO ALEGRE - SHOPPING BARRA SUL,BSS,Shopping",
+    "label2": "PORTO ALEGRE - SHOPPING BARRA SUL",
+    "codigo": "BSS",
+    "id": "705",
+    "cidade": "PORTO ALEGRE",
+    "lat": "-30.084651",
+    "lng": "-51.245881",
+    "cep": "90810-080",
+    "hora": "Segunda a sexta 8:00 \u00e0s 20:00 |  S\u00e1bado das 10:00 \u00e0s 20:00 | Domingos e Feriados das 14:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "20:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PORTO ALEGRE AEROPORTO": {
+    "value": "PORTO ALEGRE AEROPORTO",
+    "label": "PORTO ALEGRE AEROPORTO,POA,Aeroporto",
+    "label2": "PORTO ALEGRE AEROPORTO",
+    "codigo": "POA",
+    "id": "365",
+    "cidade": "PORTO ALEGRE",
+    "lat": "-29.993227",
+    "lng": "-51.175349",
+    "cep": "90200-001",
+    "hora": "Todos os dias - 24h (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "PORTO ALEGRE CENTRO": {
+    "value": "PORTO ALEGRE CENTRO",
+    "label": "PORTO ALEGRE CENTRO,MOVPOAC,RUA",
+    "label2": "PORTO ALEGRE CENTRO",
+    "codigo": "MOVPOAC",
+    "id": "296",
+    "cidade": "PORTO ALEGRE",
+    "lat": "-30.035343",
+    "lng": "-51.177621",
+    "cep": "90480-002",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bado 08:00 \u00e0s 14:00 | Domingos e Feriados - fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PORTO VELHO AEROPORTO": {
+    "value": "PORTO VELHO AEROPORTO",
+    "label": "PORTO VELHO AEROPORTO,PVH,Aeroporto",
+    "label2": "PORTO VELHO AEROPORTO",
+    "codigo": "PVH",
+    "id": "64",
+    "cidade": "PORTO VELHO",
+    "lat": "-8.714670",
+    "lng": "-63.898327",
+    "cep": "76803-250",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "PORTO VELHO CENTRO": {
+    "value": "PORTO VELHO CENTRO",
+    "label": "PORTO VELHO CENTRO,MOVPVC,RUA",
+    "label2": "PORTO VELHO CENTRO",
+    "codigo": "MOVPVC",
+    "id": "1050",
+    "cidade": "PORTO VELHO",
+    "lat": "-8.76663",
+    "lng": "-63.88466",
+    "cep": "76820-096",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BOA VISTA AEROPORTO": {
+    "value": "BOA VISTA AEROPORTO",
+    "label": "BOA VISTA AEROPORTO,BVB,Aeroporto",
+    "label2": "BOA VISTA AEROPORTO",
+    "codigo": "BVB",
+    "id": "127",
+    "cidade": "BOA VISTA",
+    "lat": "2.841929",
+    "lng": "-60.694779",
+    "cep": "69310-006",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 04:00 | S\u00e1bados, Domingos e Feriados - 8:00 \u00e0s 16:00 e das 22:00 \u00e0s 04:00",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "23:59:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BLUMENAU": {
+    "value": "BLUMENAU",
+    "label": "BLUMENAU,MOVBLM,RUA",
+    "label2": "BLUMENAU",
+    "codigo": "MOVBLM",
+    "id": "165",
+    "cidade": "BLUMENAU",
+    "lat": "-26.917054",
+    "lng": "-49.063537",
+    "cep": "89050-000",
+    "hora": "Segunda a sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "FLORIANOPOLIS AEROPORTO": {
+    "value": "FLORIANOPOLIS AEROPORTO",
+    "label": "FLORIANOPOLIS AEROPORTO,FLN,Aeroporto",
+    "label2": "FLORIANOPOLIS AEROPORTO",
+    "codigo": "FLN",
+    "id": "164",
+    "cidade": "FLORIAN\u00d3POLIS",
+    "lat": "-27.6774568",
+    "lng": "-48.5473961",
+    "cep": "88047-902",
+    "hora": "Todos os dias 24 horas (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "JOINVILLE AEROPORTO": {
+    "value": "JOINVILLE AEROPORTO",
+    "label": "JOINVILLE AEROPORTO,JOI,Aeroporto",
+    "label2": "JOINVILLE AEROPORTO",
+    "codigo": "JOI",
+    "id": "159",
+    "cidade": "JOINVILLE",
+    "lat": "-26.223305",
+    "lng": "-48.801027",
+    "cep": "89226-435",
+    "hora": "Todos os dias - 08h as 20h (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JOINVILLE CENTRO": {
+    "value": "JOINVILLE CENTRO",
+    "label": "JOINVILLE CENTRO,MOVJOI,RUA",
+    "label2": "JOINVILLE CENTRO",
+    "codigo": "MOVJOI",
+    "id": "163",
+    "cidade": "JOINVILLE",
+    "lat": "-26.286820",
+    "lng": "-48.848618",
+    "cep": "89204-002",
+    "hora": "Segunda a Sexta: 08:00 \u00e0s 18:00 | S\u00e1bados: 08:00 \u00e0s 12:00 | Domingos e Feriados: Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "NAVEGANTES AEROPORTO": {
+    "value": "NAVEGANTES AEROPORTO",
+    "label": "NAVEGANTES AEROPORTO,NVT,Aeroporto",
+    "label2": "NAVEGANTES AEROPORTO",
+    "codigo": "NVT",
+    "id": "158",
+    "cidade": "NAVEGANTES",
+    "lat": "-26.881707",
+    "lng": "-48.650170",
+    "cep": "88375-208",
+    "hora": "Todos os dias: 05:00 \u00e0s 00:00 (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SANTA CATARINA - ITAGUACU SHOPPING": {
+    "value": "SANTA CATARINA - ITAGUACU SHOPPING",
+    "label": "SANTA CATARINA - ITAGUACU SHOPPING,ITASH,Shopping",
+    "label2": "SANTA CATARINA - ITAGUACU SHOPPING",
+    "codigo": "ITASH",
+    "id": "935",
+    "cidade": "S\u00c3O JOS\u00c9",
+    "lat": "-27.584809",
+    "lng": "-48.614279",
+    "cep": "88117-290",
+    "hora": "Segunda \u00e0 S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 10:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "AMERICANA": {
+    "value": "AMERICANA",
+    "label": "AMERICANA,MOVAME,RUA",
+    "label2": "AMERICANA",
+    "codigo": "MOVAME",
+    "id": "114",
+    "cidade": "AMERICANA",
+    "lat": "-22.751129",
+    "lng": "-47.334387",
+    "cep": "13466-550",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "ARACATUBA": {
+    "value": "ARACATUBA",
+    "label": "ARACATUBA,MOVARB,RUA",
+    "label2": "ARACATUBA",
+    "codigo": "MOVARB",
+    "id": "160",
+    "cidade": "ARA\u00c7ATUBA",
+    "lat": "-21.216067",
+    "lng": "-50.436525",
+    "cep": "16015-433",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BARUERI ALPHAVILLE - RIO NEGRO": {
+    "value": "BARUERI ALPHAVILLE - RIO NEGRO",
+    "label": "BARUERI ALPHAVILLE - RIO NEGRO,MOVAPH,RUA",
+    "label2": "BARUERI ALPHAVILLE - RIO NEGRO",
+    "codigo": "MOVAPH",
+    "id": "20",
+    "cidade": "BARUERI",
+    "lat": "-23.502369",
+    "lng": "-46.847640",
+    "cep": "06454-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BARUERI ALPHAVILLE - TAMBORE": {
+    "value": "BARUERI ALPHAVILLE - TAMBORE",
+    "label": "BARUERI ALPHAVILLE - TAMBORE,BTAM,RUA",
+    "label2": "BARUERI ALPHAVILLE - TAMBORE",
+    "codigo": "BTAM",
+    "id": "527",
+    "cidade": "BARUERI",
+    "lat": "-23.5035212",
+    "lng": "-46.8315528",
+    "cep": "06455-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 18:00 | Domingos e Feriados - 08:00 \u00e0s 14:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "BAURU": {
+    "value": "BAURU",
+    "label": "BAURU,MOVBAU,RUA",
+    "label2": "BAURU",
+    "codigo": "MOVBAU",
+    "id": "84",
+    "cidade": "BAURU",
+    "lat": "-22.320135",
+    "lng": "-49.068244",
+    "cep": "17010-130",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAMPINAS - SHOPPING PARQUE DOM PEDRO": {
+    "value": "CAMPINAS - SHOPPING PARQUE DOM PEDRO",
+    "label": "CAMPINAS - SHOPPING PARQUE DOM PEDRO,MOVCDP,Shopping",
+    "label2": "CAMPINAS - SHOPPING PARQUE DOM PEDRO",
+    "codigo": "MOVCDP",
+    "id": "1041",
+    "cidade": "CAMPINAS",
+    "lat": "-22.848836",
+    "lng": "-47.061561",
+    "cep": "13087-901",
+    "hora": "Segunda a S\u00e1bado - 10:00 \u00e0s 22:00 | Domingos - 12:00 \u00e0s 20:00 | Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAMPINAS AEROPORTO": {
+    "value": "CAMPINAS AEROPORTO",
+    "label": "CAMPINAS AEROPORTO,VCP,Aeroporto",
+    "label2": "CAMPINAS AEROPORTO",
+    "codigo": "VCP",
+    "id": "21",
+    "cidade": "CAMPINAS",
+    "lat": "-23.0081389",
+    "lng": "-47.1487443",
+    "cep": "13055-900",
+    "hora": "Todos os dias: 05:00 \u00e0s 23:59 (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "05:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAMPINAS MORAES SALES": {
+    "value": "CAMPINAS MORAES SALES",
+    "label": "CAMPINAS MORAES SALES,MOVCPQC,RUA",
+    "label2": "CAMPINAS MORAES SALES",
+    "codigo": "MOVCPQC",
+    "id": "76",
+    "cidade": "CAMPINAS",
+    "lat": "-22.906472",
+    "lng": "-47.044745",
+    "cep": "13100-201",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "CAMPINAS OROSIMBO": {
+    "value": "CAMPINAS OROSIMBO",
+    "label": "CAMPINAS OROSIMBO,CPQO,RUA",
+    "label2": "CAMPINAS OROSIMBO",
+    "codigo": "CPQO",
+    "id": "477",
+    "cidade": "CAMPINAS",
+    "lat": "-22.8881791",
+    "lng": "-47.0556328",
+    "cep": "13010-211",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 18:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "COTIA GRANJA VIANNA SHOPPING": {
+    "value": "COTIA GRANJA VIANNA SHOPPING",
+    "label": "COTIA GRANJA VIANNA SHOPPING,MOVGRV,Shopping",
+    "label2": "COTIA GRANJA VIANNA SHOPPING",
+    "codigo": "MOVGRV",
+    "id": "123",
+    "cidade": "COTIA",
+    "lat": "-23.592870",
+    "lng": "-46.834378",
+    "cep": "06709-015",
+    "hora": "Segunda a S\u00e1bado - 10:00 \u00e0s 22:00 | Domingos e Feriados - 14:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "DIADEMA - SHOPPING PRACA DA MOCA": {
+    "value": "DIADEMA - SHOPPING PRACA DA MOCA",
+    "label": "DIADEMA - SHOPPING PRACA DA MOCA,SPM,Shopping",
+    "label2": "DIADEMA - SHOPPING PRACA DA MOCA",
+    "codigo": "SPM",
+    "id": "909",
+    "cidade": "DIADEMA",
+    "lat": "-23.6916005",
+    "lng": "-46.6233279",
+    "cep": "09910-660",
+    "hora": "Segunda a S\u00e1bado das 08:00h \u00e0s 20:00h | Domingos e feriados: das 14:00h \u00e0s 20:00h",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "FRANCA": {
+    "value": "FRANCA",
+    "label": "FRANCA,MOVFRA,RUA",
+    "label2": "FRANCA",
+    "codigo": "MOVFRA",
+    "id": "180",
+    "cidade": "FRANCA",
+    "lat": "-20.546474",
+    "lng": "-47.398993",
+    "cep": "14403-050",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 17:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "17:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "GUARATINGUETA": {
+    "value": "GUARATINGUETA",
+    "label": "GUARATINGUETA,GUJ,RUA",
+    "label2": "GUARATINGUETA",
+    "codigo": "GUJ",
+    "id": "120",
+    "cidade": "GUARATINGUET\u00c1",
+    "lat": "-22.813958",
+    "lng": "-45.201897",
+    "cep": "12505-300",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - GUARULHOS AEROPORTO": {
+    "value": "SAO PAULO - GUARULHOS AEROPORTO",
+    "label": "SAO PAULO - GUARULHOS AEROPORTO,GRU,Aeroporto",
+    "label2": "SAO PAULO - GUARULHOS AEROPORTO",
+    "codigo": "GRU",
+    "id": "5",
+    "cidade": "GUARULHOS",
+    "lat": "-23.446738",
+    "lng": "-46.490524",
+    "cep": "07190-100",
+    "hora": "Todos os dias 24 horas (inclusive feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "SAO PAULO GUARULHOS TIMOTEO PENTEADO": {
+    "value": "SAO PAULO GUARULHOS TIMOTEO PENTEADO",
+    "label": "SAO PAULO GUARULHOS TIMOTEO PENTEADO,MOVGRUO,Concession\u00e1rio",
+    "label2": "SAO PAULO GUARULHOS TIMOTEO PENTEADO",
+    "codigo": "MOVGRUO",
+    "id": "88",
+    "cidade": "GUARULHOS",
+    "lat": "-23.455010",
+    "lng": "-46.557072",
+    "cep": "07061-001",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "INDAIATUBA": {
+    "value": "INDAIATUBA",
+    "label": "INDAIATUBA,MOVIND,RUA",
+    "label2": "INDAIATUBA",
+    "codigo": "MOVIND",
+    "id": "102",
+    "cidade": "INDAIATUBA",
+    "lat": "-23.121983",
+    "lng": "-47.223707",
+    "cep": "13338-705",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JACAREI": {
+    "value": "JACAREI",
+    "label": "JACAREI,MOVJCR,RUA",
+    "label2": "JACAREI",
+    "codigo": "MOVJCR",
+    "id": "1085",
+    "cidade": "JACARE\u00cd",
+    "lat": "-23.28446",
+    "lng": "-45.95267",
+    "cep": "12305-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "JUNDIAI": {
+    "value": "JUNDIAI",
+    "label": "JUNDIAI,MOVJND,RUA",
+    "label2": "JUNDIAI",
+    "codigo": "MOVJND",
+    "id": "105",
+    "cidade": "JUNDIA\u00cd",
+    "lat": "-23.214845",
+    "lng": "-46.874512",
+    "cep": "13206-105",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 16:00 | Domingos e Feriados - 10:00 \u00e0s 18:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "18:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "LIMEIRA": {
+    "value": "LIMEIRA",
+    "label": "LIMEIRA,MOVLMR,RUA",
+    "label2": "LIMEIRA",
+    "codigo": "MOVLMR",
+    "id": "1244",
+    "cidade": "LIMEIRA",
+    "lat": "-22.57793823538401",
+    "lng": "-47.40883787456441",
+    "cep": "13486-190",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 07:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MARILIA": {
+    "value": "MARILIA",
+    "label": "MARILIA,MOVMRL,RUA",
+    "label2": "MARILIA",
+    "codigo": "MOVMRL",
+    "id": "133",
+    "cidade": "MAR\u00cdLIA",
+    "lat": "-22.196273",
+    "lng": "-49.930010",
+    "cep": "17514-000",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "MOGI DAS CRUZES": {
+    "value": "MOGI DAS CRUZES",
+    "label": "MOGI DAS CRUZES,MOVMGC,Concession\u00e1rio",
+    "label2": "MOGI DAS CRUZES",
+    "codigo": "MOVMGC",
+    "id": "78",
+    "cidade": "MOGI DAS CRUZES",
+    "lat": "-23.528446",
+    "lng": "-46.205220",
+    "cep": "08735-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "OSASCO": {
+    "value": "OSASCO",
+    "label": "OSASCO,MOVOSC,RUA",
+    "label2": "OSASCO",
+    "codigo": "MOVOSC",
+    "id": "77",
+    "cidade": "OSASCO",
+    "lat": "-23.538620",
+    "lng": "-46.774999",
+    "cep": "06090-010",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 18:00 | Domingos e Feriados - 10:00 \u00e0s 18:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "18:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PIRACICABA": {
+    "value": "PIRACICABA",
+    "label": "PIRACICABA,MOVPRC,RUA",
+    "label2": "PIRACICABA",
+    "codigo": "MOVPRC",
+    "id": "191",
+    "cidade": "PIRACICABA",
+    "lat": "-22.728465",
+    "lng": "-47.618147",
+    "cep": "13420-355",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PRESIDENTE PRUDENTE": {
+    "value": "PRESIDENTE PRUDENTE",
+    "label": "PRESIDENTE PRUDENTE,MOVPRP,RUA",
+    "label2": "PRESIDENTE PRUDENTE",
+    "codigo": "MOVPRP",
+    "id": "130",
+    "cidade": "PRESIDENTE PRUDENTE",
+    "lat": "-22.119034",
+    "lng": "-51.402119",
+    "cep": "19015-241",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIBEIRAO PRETO AEROPORTO": {
+    "value": "RIBEIRAO PRETO AEROPORTO",
+    "label": "RIBEIRAO PRETO AEROPORTO,RAO,Aeroporto",
+    "label2": "RIBEIRAO PRETO AEROPORTO",
+    "codigo": "RAO",
+    "id": "91",
+    "cidade": "RIBEIR\u00c3O PRETO",
+    "lat": "-21.1394",
+    "lng": "-47.7770",
+    "cep": "14075-390",
+    "hora": "Todos os dias: 05:00 \u00e0s 22:00 (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "05:00:00",
+          "End": "22:00:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "RIBEIRAO PRETO CASTELO BRANCO": {
+    "value": "RIBEIRAO PRETO CASTELO BRANCO",
+    "label": "RIBEIRAO PRETO CASTELO BRANCO,MOVRPT,RUA",
+    "label2": "RIBEIRAO PRETO CASTELO BRANCO",
+    "codigo": "MOVRPT",
+    "id": "66",
+    "cidade": "RIBEIR\u00c3O PRETO",
+    "lat": "-21.199749",
+    "lng": "-47.768683",
+    "cep": "14095-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SANTO ANDRE": {
+    "value": "SANTO ANDRE",
+    "label": "SANTO ANDRE,MOVSTA,RUA",
+    "label2": "SANTO ANDRE",
+    "codigo": "MOVSTA",
+    "id": "107",
+    "cidade": "SANTO ANDR\u00c9",
+    "lat": "-23.639854",
+    "lng": "-46.540993",
+    "cep": "09020-110",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SANTOS AFFONSO PENNA": {
+    "value": "SANTOS AFFONSO PENNA",
+    "label": "SANTOS AFFONSO PENNA,MOVLSSZ,RUA",
+    "label2": "SANTOS AFFONSO PENNA",
+    "codigo": "MOVLSSZ",
+    "id": "93",
+    "cidade": "SANTOS",
+    "lat": "-23.958606",
+    "lng": "-46.320829",
+    "cep": "11020-000",
+    "hora": "Todos os dias - 07:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO BERNARDO DO CAMPO - ASSAI ANCHIETA": {
+    "value": "SAO BERNARDO DO CAMPO - ASSAI ANCHIETA",
+    "label": "SAO BERNARDO DO CAMPO - ASSAI ANCHIETA,MOVSBCK,RUA",
+    "label2": "SAO BERNARDO DO CAMPO - ASSAI ANCHIETA",
+    "codigo": "MOVSBCK",
+    "id": "7",
+    "cidade": "S\u00c3O BERNARDO DO CAMPO",
+    "lat": "-23.668856",
+    "lng": "-46.573554",
+    "cep": "09695-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO BERNARDO PLAZA SHOPPING": {
+    "value": "SAO BERNARDO PLAZA SHOPPING",
+    "label": "SAO BERNARDO PLAZA SHOPPING,MOVSBF,Shopping",
+    "label2": "SAO BERNARDO PLAZA SHOPPING",
+    "codigo": "MOVSBF",
+    "id": "99",
+    "cidade": "S\u00c3O BERNARDO DO CAMPO",
+    "lat": "-23.7232218",
+    "lng": "-46.5453837",
+    "cep": "09721-000",
+    "hora": "Segunda \u00e0 S\u00e1bados: 08:00 \u00e0s 20:00 | Domingos e Feriados: 14:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO CAETANO DO SUL": {
+    "value": "SAO CAETANO DO SUL",
+    "label": "SAO CAETANO DO SUL,SCSAPP,RUA",
+    "label2": "SAO CAETANO DO SUL",
+    "codigo": "SCSAPP",
+    "id": "384",
+    "cidade": "S\u00c3O CAETANO DO SUL",
+    "lat": "-23.607613",
+    "lng": "-46.570386",
+    "cep": "09520-120",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO CARLOS": {
+    "value": "SAO CARLOS",
+    "label": "SAO CARLOS,MOVSCL,RUA",
+    "label2": "SAO CARLOS",
+    "codigo": "MOVSCL",
+    "id": "134",
+    "cidade": "S\u00c3O CARLOS",
+    "lat": "-22.005448",
+    "lng": "-47.891174",
+    "cep": "13560-002",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO JOSE DO RIO PRETO AEROPORTO": {
+    "value": "SAO JOSE DO RIO PRETO AEROPORTO",
+    "label": "SAO JOSE DO RIO PRETO AEROPORTO,SJP,Aeroporto",
+    "label2": "SAO JOSE DO RIO PRETO AEROPORTO",
+    "codigo": "SJP",
+    "id": "286",
+    "cidade": "S\u00c3O JOS\u00c9 DO RIO PRETO",
+    "lat": "-20.810963",
+    "lng": "-49.403122",
+    "cep": "15025-310",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados e Feriados - 07:00 \u00e0s 14:00 | Domingos - Fechada",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO JOSE DO RIO PRETO ANISIO HADDAD": {
+    "value": "SAO JOSE DO RIO PRETO ANISIO HADDAD",
+    "label": "SAO JOSE DO RIO PRETO ANISIO HADDAD,MOVSJP,RUA",
+    "label2": "SAO JOSE DO RIO PRETO ANISIO HADDAD",
+    "codigo": "MOVSJP",
+    "id": "108",
+    "cidade": "S\u00c3O JOS\u00c9 DO RIO PRETO",
+    "lat": "-20.842164",
+    "lng": "-49.401780",
+    "cep": "15090-305",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 12:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "12:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO JOSE DOS CAMPOS - SHOPPING COLINAS": {
+    "value": "SAO JOSE DOS CAMPOS - SHOPPING COLINAS",
+    "label": "SAO JOSE DOS CAMPOS - SHOPPING COLINAS,MOVSJC,RUA",
+    "label2": "SAO JOSE DOS CAMPOS - SHOPPING COLINAS",
+    "codigo": "MOVSJC",
+    "id": "95",
+    "cidade": "S\u00c3O JOS\u00c9 DOS CAMPOS",
+    "lat": "-23.203607",
+    "lng": "-45.904758",
+    "cep": "12242-001",
+    "hora": "Segunda \u00e0 Sexta: 07:00 \u00e0s 20:00 | S\u00e1bados: 08:00 \u00e0s 14:00 | Domingos e Feriados: 12:00 \u00e0s 20:00.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - AVENIDA ARICANDUVA": {
+    "value": "SAO PAULO - AVENIDA ARICANDUVA",
+    "label": "SAO PAULO - AVENIDA ARICANDUVA,ARIAPP,RUA",
+    "label2": "SAO PAULO - AVENIDA ARICANDUVA",
+    "codigo": "ARIAPP",
+    "id": "433",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.5681",
+    "lng": "-46.5058",
+    "cep": "03490-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 11:00 \u00e0s 19:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "11:00:00",
+          "End": "19:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - BARRA FUNDA": {
+    "value": "SAO PAULO - BARRA FUNDA",
+    "label": "SAO PAULO - BARRA FUNDA,MOVPBF,RUA",
+    "label2": "SAO PAULO - BARRA FUNDA",
+    "codigo": "MOVPBF",
+    "id": "19",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.520467",
+    "lng": "-46.672235",
+    "cep": "01139-003",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 07:00 \u00e0s 18:00 | Domingos e Feriados - 10:00 \u00e0s 18:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "18:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - CONGONHAS AEROPORTO": {
+    "value": "SAO PAULO - CONGONHAS AEROPORTO",
+    "label": "SAO PAULO - CONGONHAS AEROPORTO,CGH,Aeroporto",
+    "label2": "SAO PAULO - CONGONHAS AEROPORTO",
+    "codigo": "CGH",
+    "id": "4",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.620580",
+    "lng": "-46.662296",
+    "cep": "04613-000",
+    "hora": "Todos os dias: 05:00 \u00e0s 00:00 (Inclusive Feriados)",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "05:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - CONSOLACAO": {
+    "value": "SAO PAULO - CONSOLACAO",
+    "label": "SAO PAULO - CONSOLACAO,MOVCSL,RUA",
+    "label2": "SAO PAULO - CONSOLACAO",
+    "codigo": "MOVCSL",
+    "id": "6",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.547918",
+    "lng": "-46.644201",
+    "cep": "01301-100",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - CRUZEIRO DO SUL": {
+    "value": "SAO PAULO - CRUZEIRO DO SUL",
+    "label": "SAO PAULO - CRUZEIRO DO SUL,MOVCZS,RUA",
+    "label2": "SAO PAULO - CRUZEIRO DO SUL",
+    "codigo": "MOVCZS",
+    "id": "891",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.514602",
+    "lng": "-46.625452",
+    "cep": "02031-000",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - ITAIM BIBI BRASCAN": {
+    "value": "SAO PAULO - ITAIM BIBI BRASCAN",
+    "label": "SAO PAULO - ITAIM BIBI BRASCAN,SAOS13,Shopping",
+    "label2": "SAO PAULO - ITAIM BIBI BRASCAN",
+    "codigo": "SAOS13",
+    "id": "578",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.5843405",
+    "lng": "-46.6750242",
+    "cep": "04534-002",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - ITAIM PAULISTA": {
+    "value": "SAO PAULO - ITAIM PAULISTA",
+    "label": "SAO PAULO - ITAIM PAULISTA,SAOC25,RUA",
+    "label2": "SAO PAULO - ITAIM PAULISTA",
+    "codigo": "SAOC25",
+    "id": "341",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.494979",
+    "lng": "-46.406295",
+    "cep": "08115-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - JUSCELINO KUBITSCHEK": {
+    "value": "SAO PAULO - JUSCELINO KUBITSCHEK",
+    "label": "SAO PAULO - JUSCELINO KUBITSCHEK,MOVJKK,RUA",
+    "label2": "SAO PAULO - JUSCELINO KUBITSCHEK",
+    "codigo": "MOVJKK",
+    "id": "189",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.589620",
+    "lng": "-46.677730",
+    "cep": "04543-000",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 00:00 | Domingos e Feriados - 10:00 \u00e0s 00:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "23:59:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "23:59:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - MOEMA": {
+    "value": "SAO PAULO - MOEMA",
+    "label": "SAO PAULO - MOEMA,MOVMOM,RUA",
+    "label2": "SAO PAULO - MOEMA",
+    "codigo": "MOVMOM",
+    "id": "291",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.605541",
+    "lng": "-46.657332",
+    "cep": "04077-021",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 10:00 \u00e0s 18:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "10:00:00",
+          "End": "18:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - NACOES UNIDAS": {
+    "value": "SAO PAULO - NACOES UNIDAS",
+    "label": "SAO PAULO - NACOES UNIDAS,SPNU,RUA",
+    "label2": "SAO PAULO - NACOES UNIDAS",
+    "codigo": "SPNU",
+    "id": "697",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.6796965",
+    "lng": "-46.694456",
+    "cep": "04795-100",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - PENHA": {
+    "value": "SAO PAULO - PENHA",
+    "label": "SAO PAULO - PENHA,MOVPEN,RUA",
+    "label2": "SAO PAULO - PENHA",
+    "codigo": "MOVPEN",
+    "id": "103",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.512655",
+    "lng": "-46.523873",
+    "cep": "03601-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - RODOVIARIA TIETE": {
+    "value": "SAO PAULO - RODOVIARIA TIETE",
+    "label": "SAO PAULO - RODOVIARIA TIETE,MOVRDT,RUA",
+    "label2": "SAO PAULO - RODOVIARIA TIETE",
+    "codigo": "MOVRDT",
+    "id": "172",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.516512",
+    "lng": "-46.624965",
+    "cep": "02030-000",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 22:00 | Domingos e Feriados - 12:00 \u00e0s 22:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "22:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SAUDE": {
+    "value": "SAO PAULO - SAUDE",
+    "label": "SAO PAULO - SAUDE,MOVSAU,RUA",
+    "label2": "SAO PAULO - SAUDE",
+    "codigo": "MOVSAU",
+    "id": "177",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.617758",
+    "lng": "-46.627921",
+    "cep": "04123-001",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos - 12:00 \u00e0s 20:00 | Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SAO MIGUEL": {
+    "value": "SAO PAULO - SAO MIGUEL",
+    "label": "SAO PAULO - SAO MIGUEL,SMP,RUA",
+    "label2": "SAO PAULO - SAO MIGUEL",
+    "codigo": "SMP",
+    "id": "900",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.496225",
+    "lng": "-46.453056",
+    "cep": "08070-000",
+    "hora": "Segunda a Sexta: 7:00 \u00e0s 18:00 | S\u00e1bados - 8:00 \u00e0s 14:00 | Domingos e Feriados: Fechada.",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING ARICANDUVA": {
+    "value": "SAO PAULO - SHOPPING ARICANDUVA",
+    "label": "SAO PAULO - SHOPPING ARICANDUVA,SHA,Shopping",
+    "label2": "SAO PAULO - SHOPPING ARICANDUVA",
+    "codigo": "SHA",
+    "id": "338",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.565872",
+    "lng": "-46.501153",
+    "cep": "03527-908",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 19:00 | Domingos -Fechada | Feriados - 14:00 \u00e0s 19:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "19:00:00"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING BUTANTA": {
+    "value": "SAO PAULO - SHOPPING BUTANTA",
+    "label": "SAO PAULO - SHOPPING BUTANTA,MOVBUT,Shopping",
+    "label2": "SAO PAULO - SHOPPING BUTANTA",
+    "codigo": "MOVBUT",
+    "id": "179",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.584593",
+    "lng": "-46.725024",
+    "cep": "05512-300",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 22:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING CAMPO LIMPO": {
+    "value": "SAO PAULO - SHOPPING CAMPO LIMPO",
+    "label": "SAO PAULO - SHOPPING CAMPO LIMPO,MOVCNP,Shopping",
+    "label2": "SAO PAULO - SHOPPING CAMPO LIMPO",
+    "codigo": "MOVCNP",
+    "id": "89",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.649196",
+    "lng": "-46.758316",
+    "cep": "05777-970",
+    "hora": "Segunda a S\u00e1bado - 07:00 \u00e0s 20:00 | Domingos e feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING CENTER NORTE": {
+    "value": "SAO PAULO - SHOPPING CENTER NORTE",
+    "label": "SAO PAULO - SHOPPING CENTER NORTE,MOVSCN,Shopping",
+    "label2": "SAO PAULO - SHOPPING CENTER NORTE",
+    "codigo": "MOVSCN",
+    "id": "300",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.514564",
+    "lng": "-46.619873",
+    "cep": "02089-900",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos - Fechado | Feriados -  Funcionamento conforme dia da semana",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING DED - BROOKLIN": {
+    "value": "SAO PAULO - SHOPPING DED - BROOKLIN",
+    "label": "SAO PAULO - SHOPPING DED - BROOKLIN,SAOS08,Shopping",
+    "label2": "SAO PAULO - SHOPPING DED - BROOKLIN",
+    "codigo": "SAOS08",
+    "id": "440",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.6095956",
+    "lng": "-46.7001739",
+    "cep": "04578-903",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING ELDORADO": {
+    "value": "SAO PAULO - SHOPPING ELDORADO",
+    "label": "SAO PAULO - SHOPPING ELDORADO,SSE,Shopping",
+    "label2": "SAO PAULO - SHOPPING ELDORADO",
+    "codigo": "SSE",
+    "id": "931",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.572589",
+    "lng": "-46.695805",
+    "cep": "05402-600",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 22:00 | Domingos e Feriados  - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Tue": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING FREI CANECA": {
+    "value": "SAO PAULO - SHOPPING FREI CANECA",
+    "label": "SAO PAULO - SHOPPING FREI CANECA,MOVSFC,Shopping",
+    "label2": "SAO PAULO - SHOPPING FREI CANECA",
+    "codigo": "MOVSFC",
+    "id": "1040",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.55332",
+    "lng": "-46.65274",
+    "cep": "01307-001",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 22:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING PATIO PAULISTA": {
+    "value": "SAO PAULO - SHOPPING PATIO PAULISTA",
+    "label": "SAO PAULO - SHOPPING PATIO PAULISTA,SAOC27,Shopping",
+    "label2": "SAO PAULO - SHOPPING PATIO PAULISTA",
+    "codigo": "SAOC27",
+    "id": "696",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.5705529",
+    "lng": "-46.6457135",
+    "cep": "01327-900",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 22:00 | Domingos e Feriados - 12:00 \u00e0s 22:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "22:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "22:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING SANTA CRUZ": {
+    "value": "SAO PAULO - SHOPPING SANTA CRUZ",
+    "label": "SAO PAULO - SHOPPING SANTA CRUZ,MOVSSC,Shopping",
+    "label2": "SAO PAULO - SHOPPING SANTA CRUZ",
+    "codigo": "MOVSSC",
+    "id": "210",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.599307",
+    "lng": "-46.636805",
+    "cep": "04036-100",
+    "hora": "Segunda a S\u00e1bado - 08:00 \u00e0s 20:00 | Domingos e Feriados - 14:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - SHOPPING TUCURUVI": {
+    "value": "SAO PAULO - SHOPPING TUCURUVI",
+    "label": "SAO PAULO - SHOPPING TUCURUVI,SHT,Shopping",
+    "label2": "SAO PAULO - SHOPPING TUCURUVI",
+    "codigo": "SHT",
+    "id": "924",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.480212",
+    "lng": "-46.603051",
+    "cep": "02240-000",
+    "hora": "Segunda a Sexta - 08:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 20:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - TATUAPE - MARGINAL TIETE": {
+    "value": "SAO PAULO - TATUAPE - MARGINAL TIETE",
+    "label": "SAO PAULO - TATUAPE - MARGINAL TIETE,SPMT,RUA",
+    "label2": "SAO PAULO - TATUAPE - MARGINAL TIETE",
+    "codigo": "SPMT",
+    "id": "532",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.5293828",
+    "lng": "-46.5816766",
+    "cep": "03074-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 20:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - 12:00 \u00e0s 20:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "12:00:00",
+          "End": "20:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "20:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - TATUAPE II": {
+    "value": "SAO PAULO - TATUAPE II",
+    "label": "SAO PAULO - TATUAPE II,MOVTAT,RUA",
+    "label2": "SAO PAULO - TATUAPE II",
+    "codigo": "MOVTAT",
+    "id": "239",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.535478",
+    "lng": "-46.573678",
+    "cep": "03063-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SAO PAULO - VILA LEOPOLDINA": {
+    "value": "SAO PAULO - VILA LEOPOLDINA",
+    "label": "SAO PAULO - VILA LEOPOLDINA,GASVI,RUA",
+    "label2": "SAO PAULO - VILA LEOPOLDINA",
+    "codigo": "GASVI",
+    "id": "431",
+    "cidade": "S\u00c3O PAULO",
+    "lat": "-23.528190",
+    "lng": "-46.739185",
+    "cep": "05314-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 19:00 | S\u00e1bados, Domingos e Feriados - 08:00 \u00e0s 16:00",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "16:00:00",
+          "Sun": "true",
+          "Sat": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SOROCABA CAMPOLIM": {
+    "value": "SOROCABA CAMPOLIM",
+    "label": "SOROCABA CAMPOLIM,MOVSRB,RUA",
+    "label2": "SOROCABA CAMPOLIM",
+    "codigo": "MOVSRB",
+    "id": "81",
+    "cidade": "SOROCABA",
+    "lat": "-23.527882",
+    "lng": "-47.465608",
+    "cep": "18047-620",
+    "hora": "Segunda \u00e0 Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 18:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "18:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SOROCABA SHOPPING PATIO CIANE": {
+    "value": "SOROCABA SHOPPING PATIO CIANE",
+    "label": "SOROCABA SHOPPING PATIO CIANE,SSPC,Shopping",
+    "label2": "SOROCABA SHOPPING PATIO CIANE",
+    "codigo": "SSPC",
+    "id": "528",
+    "cidade": "SOROCABA",
+    "lat": "-23.4963889",
+    "lng": "-47.4621887",
+    "cep": "18035-370",
+    "hora": "Segunda \u00e0 Sexta das 07:00 \u00e0s 19:00 | S\u00e1bado das 08:00 \u00e0s 19:00 | Domingos das 14:00 \u00e0s 19:00 | Feriados fechado",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "14:00:00",
+          "End": "19:00:00",
+          "Sun": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "19:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "19:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "SUZANO": {
+    "value": "SUZANO",
+    "label": "SUZANO,MOVSUZ,Concession\u00e1rio",
+    "label2": "SUZANO",
+    "codigo": "MOVSUZ",
+    "id": "166",
+    "cidade": "SUZANO",
+    "lat": "-23.540917",
+    "lng": "-46.306528",
+    "cep": "08676-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "TAUBATE": {
+    "value": "TAUBATE",
+    "label": "TAUBATE,MOVTBT,RUA",
+    "label2": "TAUBATE",
+    "codigo": "MOVTBT",
+    "id": "85",
+    "cidade": "TAUBAT\u00c9",
+    "lat": "-23.025864",
+    "lng": "-45.579744",
+    "cep": "12040-000",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados: Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "ARACAJU AEROPORTO": {
+    "value": "ARACAJU AEROPORTO",
+    "label": "ARACAJU AEROPORTO,AJU,Aeroporto",
+    "label2": "ARACAJU AEROPORTO",
+    "codigo": "AJU",
+    "id": "79",
+    "cidade": "ARACAJU",
+    "lat": "-10.987706",
+    "lng": "-37.073572",
+    "cep": "49037-580",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "ARACAJU COROA DO MEIO": {
+    "value": "ARACAJU COROA DO MEIO",
+    "label": "ARACAJU COROA DO MEIO,AAR,RUA",
+    "label2": "ARACAJU COROA DO MEIO",
+    "codigo": "AAR",
+    "id": "310",
+    "cidade": "ARACAJU",
+    "lat": "-10.9465545",
+    "lng": "-37.0452286",
+    "cep": "49035-500",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  },
+  "PALMAS AEROPORTO": {
+    "value": "PALMAS AEROPORTO",
+    "label": "PALMAS AEROPORTO,PMW,Aeroporto",
+    "label2": "PALMAS AEROPORTO",
+    "codigo": "PMW",
+    "id": "61",
+    "cidade": "PALMAS",
+    "lat": "-10.295576",
+    "lng": "-48.358159",
+    "cep": "77061-900",
+    "hora": "Todos os dias 24hs  (inclusive feriados).",
+    "cod": "AEROPORTO",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "00:00:00",
+          "End": "23:59:00",
+          "Sun": "true",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "1"
+  },
+  "PALMAS CENTRO": {
+    "value": "PALMAS CENTRO",
+    "label": "PALMAS CENTRO,MOVPLM,RUA",
+    "label2": "PALMAS CENTRO",
+    "codigo": "MOVPLM",
+    "id": "129",
+    "cidade": "PALMAS",
+    "lat": "-10.189491",
+    "lng": "-48.337810",
+    "cep": "77015-030",
+    "hora": "Segunda a Sexta - 07:00 \u00e0s 18:00 | S\u00e1bados - 08:00 \u00e0s 14:00 | Domingos e Feriados - Fechada",
+    "cod": "cidade",
+    "operation_time": [
+      {
+        "OperationTime": {
+          "Start": "07:00:00",
+          "End": "18:00:00",
+          "Mon": "true",
+          "Tue": "true",
+          "Weds": "true",
+          "Thur": "true",
+          "Fri": "true"
+        }
+      },
+      {
+        "OperationTime": {
+          "Start": "08:00:00",
+          "End": "14:00:00",
+          "Sat": "true"
+        }
+      }
+    ],
+    "is24h": "0"
+  }
+}

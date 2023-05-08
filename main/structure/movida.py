@@ -95,6 +95,7 @@ class Search:
 
         self.__set_driver(driver)
 
+    @retry
     # Create the dictionary of all possibles cars and the price of them.
     def car_value(self):
         self.driver_web()
