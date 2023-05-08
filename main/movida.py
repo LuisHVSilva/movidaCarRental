@@ -5,15 +5,16 @@ from retrying import retry
 import webconnection
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
-import datarefactory
+from make_up_for import Rental
 from send_email import Mail
 import constants
 
 
 class Search:
-    def __init__(self, open_web, rental):
+    def __init__(self, open_web, automatic_rental, email):
         self.open_web = open_web
-        self.rental = rental
+        self.automatic_rental = automatic_rental
+        self.email = email
 
         # Private class
         self.driver = None
@@ -35,7 +36,7 @@ class Search:
                 i.click()
 
         sleep(3)
-        self.__set_driver(driver)
+        return driver
 
     # Manipulating the location that user wants to rental the car.
     # Ver um jeito de trabalhar com o json para conseguir mudar esses dados
@@ -84,16 +85,19 @@ class Search:
         self.__get_driver().find_elements(By.CSS_SELECTOR, "div.pika-single")[1].find_element(By.CSS_SELECTOR,
                                                                                               tag_html_td).click()
 
-    # Create the dictionary of all possibles cars and the price of them.
-    @retry
-    def car_value(self):
-        if self.rental:
-            self.__login()
+    def driver_web(self):
+        if self.automatic_rental:
+            driver = self.__login()
             webconnection.http_code(constants.search_url)
         else:
             url = constants.search_url
-            self.__set_driver(webconnection.create_driver(url, self.open_web))
+            driver = webconnection.create_driver(url, self.open_web)
 
+        self.__set_driver(driver)
+
+    # Create the dictionary of all possibles cars and the price of them.
+    def car_value(self):
+        self.driver_web()
         driver = self.__get_driver()
         self.__location()
         self.__removal()
@@ -113,63 +117,10 @@ class Search:
                 j += 2
 
         self.__set_driver(driver)
-        self.__make_up_for(dic)
 
-    def __make_up_for(self, dic):
-        print("Make Up For?")
-        if datarefactory.str_to_float(dic["208, HB20, ou similar."]) < 100.00:
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            print("Deu muito bom. Corre pra ver")
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            car = "208, HB20, ou similar."
-            value = dic["208, HB20, ou similar."]
-            self.__define_protections(value)
-            Mail(car, value).send()
-
-        elif datarefactory.str_to_float(dic["HB20S, Voyage, Cronos ou Similar."]) < 90.00:
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            print("Deu muito bom. Corre pra ver")
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            car = "HB20S, Voyage, Cronos ou Similar."
-            value = dic["HB20S, Voyage, Cronos ou Similar."]
-            self.__define_protections(value)
-            Mail(car, value).send()
-
-        elif datarefactory.str_to_float(dic["HB20, 208 ou Similar."]) <= 80.00:
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            print("Deu muito bom. Corre pra ver")
-            print("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
-            car = "HB20, 208 ou Similar."
-            value = dic["HB20, 208 ou Similar."]
-            self.__define_protections(value)
-            Mail(car, value).send()
-
+        if self.automatic_rental:
+            Rental().make_up_for(dic, driver)
+        elif self.email and not self.automatic_rental:
+            Mail(car_name, car_value).send()
         else:
-            print("It does not make up for. We will going to search again in five (5) minutes.")
-            print("----------------------------------------------------------------------------------------------")
-            print("Não deu bom. Tentando de novo")
-            print("----------------------------------------------------------------------------------------------")
-
-    def __define_protections(self, value):
-        print("Defining your protections")
-        driver = self.__get_driver()
-        driver.find_element(By.CSS_SELECTOR, 'button[data-valor="' + value + '"]').click()
-        driver.execute_script("document.getElementsByClassName('pricing')[4].getElementsByTagName('button')[0].click()")
-        driver.find_elements(By.CLASS_NAME, "selAvancarReserva")[1].click()
-        self.__set_driver(driver)
-        self.finish_rental()
-
-    def finish_rental(self):
-        print("Finishing your rental")
-        driver = self.__get_driver()
-        driver.find_element(By.ID, "pagarAgora").click()  # Escolher o pagar agora
-        driver.execute_script('document.getElementsByTagName("movida-cartoes")[0]'
-                              '.shadowRoot'
-                              '.getElementById("' + constants.id_carta__finish_rental + '").click()')
-        driver.find_element(By.ID, "numeroCvv").send_keys(constants.CVV)
-        driver.find_element(By.CLASS_NAME, "btn-validar").click()
-        driver.execute_script("document.getElementById('prePagamento').click()")
-        driver.execute_script("document.getElementById('licenca').click()")
-        driver.execute_script("document.getElementById('politicaCancelamento').click()")
-        sleep(5000000000)
-        # driver.execute_script("document.getElementById('concluir_pagamento_reserva').click")
+            print("The car and value is: " + str(dic))
