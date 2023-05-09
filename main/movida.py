@@ -1,29 +1,37 @@
 from time import sleep
-
 from retrying import retry
-
-import webconnection
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
+
 from make_up_for import Rental
 from send_email import Mail
 import constants
+import webconnection
+from location_informations import Information
 
 
 class Search:
-    def __init__(self, open_web, automatic_rental, email):
+    def __init__(self, open_web, automatic_rental, email, city):
         self.open_web = open_web
         self.automatic_rental = automatic_rental
         self.email = email
+        self.city = city
 
         # Private class
         self.driver = None
+        self.location_dic = None
 
     def __get_driver(self):
         return self.driver
 
     def __set_driver(self, driver):
         self.driver = driver
+
+    def __get_location_dic(self):
+        return self.location_dic
+
+    def __set_location_dic(self, location_dic):
+        self.location_dic = location_dic
 
     def __login(self):
         print("Making login")
@@ -42,11 +50,16 @@ class Search:
     # Ver um jeito de trabalhar com o json para conseguir mudar esses dados
     def __location(self):
         print("Putting your location")
-        self.__get_driver().execute_script("document.getElementsByName('loja_iata')[0].setAttribute('value', 'LDB')")
-        self.__get_driver().execute_script("document.getElementsByName('loja_iata_id')[0].setAttribute('value', '115')")
-        self.__get_driver().execute_script("document.getElementsByName('cordx')[0].setAttribute('value', '-23.326438')")
-        self.__get_driver().execute_script("document.getElementsByName('cordy')[0].setAttribute('value', '-51.139629')")
-        self.__get_driver().execute_script("document.getElementsByName('loja_is24h')[0].setAttribute('value', '0')")
+        self.__get_driver().execute_script("document.getElementsByName('loja_iata')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['codigo'] + "')")
+        self.__get_driver().execute_script("document.getElementsByName('loja_iata_id')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['id'] + "')")
+        self.__get_driver().execute_script("document.getElementsByName('cordx')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['lat'] + "')")
+        self.__get_driver().execute_script("document.getElementsByName('cordy')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['lng'] + "')")
+        self.__get_driver().execute_script("document.getElementsByName('loja_is24h')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['is24h'] + "')")
 
     def __removal(self):
         print("Putting removal hour")
@@ -95,20 +108,20 @@ class Search:
 
         self.__set_driver(driver)
 
-    @retry
+    # @retry
     # Create the dictionary of all possibles cars and the price of them.
     def car_value(self):
+        self.__set_location_dic(Information(self.city).search_possible_location_json())
         self.driver_web()
-        driver = self.__get_driver()
         self.__location()
         self.__removal()
         self.__devolution()
 
-        driver.find_element(By.CLASS_NAME, "search-button").click()
+        self.__get_driver().find_element(By.CLASS_NAME, "search-button").click()
 
         print("Making your dictionary")
-        car_name = driver.find_elements(By.CLASS_NAME, "text-transform--initial")
-        car_value = driver.find_elements(By.CLASS_NAME, "clube-price__value-discount--size_walk")
+        car_name = self.__get_driver().find_elements(By.CLASS_NAME, "text-transform--initial")
+        car_value = self.__get_driver().find_elements(By.CLASS_NAME, "clube-price__value-discount--size_walk")
         dic = {}
         j = 0
 
@@ -117,11 +130,18 @@ class Search:
                 dic[car_name[i].text] = car_value[j].text
                 j += 2
 
-        self.__set_driver(driver)
-
         if self.automatic_rental:
-            Rental().make_up_for(dic, driver)
+            Rental().make_up_for(dic, self.__get_driver())
         elif self.email and not self.automatic_rental:
             Mail(car_name, car_value).send()
         else:
             print("The car and value is: " + str(dic))
+
+    def teste(self):
+        a = Information(self.city).search_possible_location_json()
+        self.__set_location_dic(Information(self.city).search_possible_location_json())
+        b = self.__get_location_dic()
+        print(b["codigo"])
+        print(a["codigo"])
+        print("document.getElementsByName('loja_iata')[0]"
+                                           ".setAttribute('value', '" + self.__get_location_dic()['codigo'] + "')")
